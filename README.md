@@ -1,2 +1,2 @@
-# audit-api-LOS-272
-This is Audit-API which responsible for send the JSON Data in DynamoDb
+# audit-processor
+Application to listen audit queue and send message to audit-api to log in dynamo db table.
